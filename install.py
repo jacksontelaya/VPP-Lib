@@ -16,3 +16,5 @@ os.system("apt install ruby -y")
 os.system("gem install lolcat")
 os.system("clear")
 os.system("python3 vpplib.py")
+
+6,850 scammer 
